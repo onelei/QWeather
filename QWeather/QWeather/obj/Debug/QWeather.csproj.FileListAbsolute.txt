@@ -1,0 +1,11 @@
+C:\project\QWeather\QWeather\QWeather\bin\Debug\QWeather.exe.config
+C:\project\QWeather\QWeather\QWeather\bin\Debug\QWeather.exe
+C:\project\QWeather\QWeather\QWeather\bin\Debug\QWeather.pdb
+C:\project\QWeather\QWeather\QWeather\obj\Debug\QWeather.Form1.resources
+C:\project\QWeather\QWeather\QWeather\obj\Debug\QWeather.Properties.Resources.resources
+C:\project\QWeather\QWeather\QWeather\obj\Debug\QWeather.csproj.GenerateResource.Cache
+C:\project\QWeather\QWeather\QWeather\obj\Debug\QWeather.exe
+C:\project\QWeather\QWeather\QWeather\obj\Debug\QWeather.pdb
+C:\project\QWeather\QWeather\QWeather\obj\Debug\QWeather.csprojResolveAssemblyReference.cache
+C:\project\QWeather\QWeather\QWeather\bin\Debug\Newtonsoft.Json.dll
+C:\project\QWeather\QWeather\QWeather\bin\Debug\Newtonsoft.Json.xml

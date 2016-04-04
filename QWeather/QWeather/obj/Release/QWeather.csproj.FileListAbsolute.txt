@@ -1,0 +1,10 @@
+C:\project\QWeather\QWeather\QWeather\bin\Release\QWeather.exe.config
+C:\project\QWeather\QWeather\QWeather\bin\Release\QWeather.exe
+C:\project\QWeather\QWeather\QWeather\bin\Release\QWeather.pdb
+C:\project\QWeather\QWeather\QWeather\bin\Release\Newtonsoft.Json.dll
+C:\project\QWeather\QWeather\QWeather\bin\Release\Newtonsoft.Json.xml
+C:\project\QWeather\QWeather\QWeather\obj\Release\QWeather.Form1.resources
+C:\project\QWeather\QWeather\QWeather\obj\Release\QWeather.Properties.Resources.resources
+C:\project\QWeather\QWeather\QWeather\obj\Release\QWeather.csproj.GenerateResource.Cache
+C:\project\QWeather\QWeather\QWeather\obj\Release\QWeather.exe
+C:\project\QWeather\QWeather\QWeather\obj\Release\QWeather.pdb
